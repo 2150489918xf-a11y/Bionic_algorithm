@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/粒子群可视化程序/.venv/Scripts/python.exe",
+    "python.terminal.activateEnvironment": true
+}
